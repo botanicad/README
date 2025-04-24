@@ -67,8 +67,8 @@ spring.jpa.hibernate.ddl-auto=update
 ---
 
 ## 🚀 Deploy (em breve)
-- Frontend: Vercel / Netlify
-- Backend: Railway / Render / Fly.io
+- Frontend: Vercel / Netlify / Azure
+- Backend: Azure
 
 ---
 
