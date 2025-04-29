@@ -1,3 +1,9 @@
+# 🌿 Link no GitHub 🌿
+
+Bem-vindo ao **Botanica**!  
+https://plantlibrary.netlify.app/. 🌱✨
+
+---
 
 # 🌿 Botanica - Plataforma Completa 🌿
 
